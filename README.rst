@@ -11,9 +11,9 @@ To Compile
 1. Install `leiningen <https://github.com/technomancy/leiningen>`_
 2. Clone this repo
 3. cd to the install directory
-4. Run `lein deps`
-5. Run `lein uberjar`
-6. Run `java -jar numguess-1.0.0-standalone.jar`
+4. Run ``lein deps``
+5. Run ``lein uberjar``
+6. Run ``java -jar numguess-1.0.0-standalone.jar``
 
 -------------
 Dependencies
